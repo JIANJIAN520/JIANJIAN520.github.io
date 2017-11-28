@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: LanChong-QiuQiu
+description: This is QiuQiu's home.
 logo: favicon.png
-url: kongsong.me
+url: 李洪见.我爱你
 rss_url: /feed.xml
 
 # Jekyll
@@ -21,29 +21,29 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
+  # disqus: kongsong    
   # duoshuo: kongsong
   # youyan: 2122392
-  laibili: MTAyMC8yODgzNC81NDA0
+  # laibili: MTAyMC8yODgzNC81NDA0
 
 # Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+# google_analytics: UA-82494501-1
+# baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
 
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: Jian Jian     #the name of Blog section
+  about_me: I'm Jian Jian, 一个大三的懒惰的老学姐,有一个小封号___"懒虫".
  
 # Social Links
-email:               hi@kongsong.me
+email:               1126631449@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+# facebook:            kongsong
+github:              JIANJIAN520
+# stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+# linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
